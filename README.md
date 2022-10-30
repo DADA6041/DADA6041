@@ -26,7 +26,7 @@
     <br>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/D3-CC6699?style=flat&logo=D3.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/D3-F9A03C?style=flat&logo=D3.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
   </div>
   <br>
