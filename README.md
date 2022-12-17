@@ -48,8 +48,8 @@
   </div>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=DADA6041&show_icons=true&theme=buefy" width="40.5%" />
-  <img alt="DADA6041 top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DADA6041&layout=compact&theme=buefy" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DADA6041&show_icons=true&theme=vue" width="40.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DADA6041&layout=compact&theme=vue" width="40%" />
 </div>
    
   <!--
