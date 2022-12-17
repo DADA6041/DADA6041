@@ -23,7 +23,9 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white"/> -->
     <br>
+<!--     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
     <img src="https://img.shields.io/badge/D3-F9A03C?style=flat&logo=D3.js&logoColor=white"/>
@@ -34,6 +36,7 @@
   <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
@@ -45,7 +48,8 @@
   </div>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=DADA6041&show_icons=true&theme=buefy"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DADA6041&show_icons=true&theme=buefy" width="40.5%" />
+  <img alt="DADA6041 top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DADA6041&layout=compact&theme=buefy" width="40%" />
 </div>
    
   <!--
