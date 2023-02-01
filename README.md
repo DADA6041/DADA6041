@@ -6,15 +6,17 @@
   
   --- 
   
-  ### :smiley: Me :smiley:
-  d.ya96v@gmail.com
-  
-  <!--
+  ### :smiley: Me :smiley:  
+
   <div>
-    <a href="d.ya96v@gmail.com"><img src="https://img.shields.io/badge/d.ya96v@gmail.com-033963?style=flat-square&logo=Gmail&logoColor=white"/></a> 메일
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DADA6041&layout=compact&theme=buefy"/> 언어
+    <a href="d.ya96v@gmail.com">
+     <img src="https://img.shields.io/badge/d.ya96v@gmail.com-033963?style=flat&logo=Minutemailer&logoColor=white"/>
+    </a>
+    <a href="https://www.notion.so/978cd935d53148d1b9c189859f4342d5">
+     <img src="https://img.shields.io/badge/Resume-00B2A5?style=flat&logo=ReadMe&logoColor=white"/>
+    </a>
   </div>
-  -->
+
   
    ### :computer: Skills :computer:
   Dev Skill
@@ -48,21 +50,6 @@
   </div>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=DADA6041&show_icons=true&theme=vue" width="40.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DADA6041&layout=compact&theme=vue" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DADA6041&show_icons=true&theme=vue" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DADA6041&layout=compact&theme=vue" width="47%" />
 </div>
-   
-  <!--
-  **DADA6041/DADA6041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-  Here are some ideas to get you started:
-
-  - 🔭 I’m currently working...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-  -->
