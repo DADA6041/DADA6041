@@ -50,6 +50,6 @@
   </div>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=DADA6041&show_icons=true&theme=vue" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DADA6041&layout=compact&theme=vue" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DADA6041&show_icons=true&theme=vue" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DADA6041&layout=compact&theme=vue" width="45%" />
 </div>
